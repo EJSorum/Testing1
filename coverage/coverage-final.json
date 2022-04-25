@@ -1,0 +1,199 @@
+{
+  "/home/eric/repos/Testing1/src/capitalize.js": {
+    "path": "/home/eric/repos/Testing1/src/capitalize.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 4 },
+        "end": { "line": 2, "column": 63 }
+      },
+      "1": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 27 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "capitalize",
+        "decl": {
+          "start": { "line": 1, "column": 9 },
+          "end": { "line": 1, "column": 19 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 28 },
+          "end": { "line": 3, "column": 3 }
+        },
+        "line": 1
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 2, "1": 1 },
+    "f": { "0": 2 },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "6157cf21f088ec60b03fdfe25080fb3d908ccd18"
+  },
+  "/home/eric/repos/Testing1/src/clonearray.js": {
+    "path": "/home/eric/repos/Testing1/src/clonearray.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 4 },
+        "end": { "line": 2, "column": 21 }
+      },
+      "1": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 27 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "cloneArray",
+        "decl": {
+          "start": { "line": 1, "column": 9 },
+          "end": { "line": 1, "column": 19 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 27 },
+          "end": { "line": 3, "column": 1 }
+        },
+        "line": 1
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 2, "1": 1 },
+    "f": { "0": 2 },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "bbcd6199fd4e56081fda46cd333425d5073df4bc"
+  },
+  "/home/eric/repos/Testing1/src/reverse.js": {
+    "path": "/home/eric/repos/Testing1/src/reverse.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 12 },
+        "end": { "line": 2, "column": 14 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 4 },
+        "end": { "line": 6, "column": 5 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 17 },
+        "end": { "line": 3, "column": 27 }
+      },
+      "3": {
+        "start": { "line": 5, "column": 6 },
+        "end": { "line": 5, "column": 33 }
+      },
+      "4": {
+        "start": { "line": 7, "column": 4 },
+        "end": { "line": 7, "column": 12 }
+      },
+      "5": {
+        "start": { "line": 10, "column": 2 },
+        "end": { "line": 10, "column": 26 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "reverse",
+        "decl": {
+          "start": { "line": 1, "column": 9 },
+          "end": { "line": 1, "column": 16 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 22 },
+          "end": { "line": 8, "column": 3 }
+        },
+        "line": 1
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 2, "1": 2, "2": 2, "3": 15, "4": 2, "5": 1 },
+    "f": { "0": 2 },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "0054f7e7ba7a7cc0779e2e9c7bf69ce978be36b9"
+  },
+  "/home/eric/repos/Testing1/src/subtract.js": {
+    "path": "/home/eric/repos/Testing1/src/subtract.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 4 },
+        "end": { "line": 2, "column": 17 }
+      },
+      "1": {
+        "start": { "line": 4, "column": 2 },
+        "end": { "line": 4, "column": 28 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "subtract",
+        "decl": {
+          "start": { "line": 1, "column": 9 },
+          "end": { "line": 1, "column": 17 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 24 },
+          "end": { "line": 3, "column": 3 }
+        },
+        "line": 1
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1 },
+    "f": { "0": 1 },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "7bbbae8290f16275e641fc88f2fa60d71c0f8183"
+  },
+  "/home/eric/repos/Testing1/src/sum.js": {
+    "path": "/home/eric/repos/Testing1/src/sum.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 4 },
+        "end": { "line": 2, "column": 17 }
+      },
+      "1": {
+        "start": { "line": 6, "column": 4 },
+        "end": { "line": 6, "column": 25 }
+      },
+      "2": {
+        "start": { "line": 10, "column": 2 },
+        "end": { "line": 10, "column": 23 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "sum",
+        "decl": {
+          "start": { "line": 1, "column": 9 },
+          "end": { "line": 1, "column": 12 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 19 },
+          "end": { "line": 3, "column": 3 }
+        },
+        "line": 1
+      },
+      "1": {
+        "name": "helper",
+        "decl": {
+          "start": { "line": 5, "column": 9 },
+          "end": { "line": 5, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 5, "column": 18 },
+          "end": { "line": 7, "column": 1 }
+        },
+        "line": 5
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 0, "2": 1 },
+    "f": { "0": 1, "1": 0 },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "bea2b2b093f77990b24b162b664b87c626a5e016"
+  }
+}

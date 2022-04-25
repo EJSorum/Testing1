@@ -1,10 +1,4 @@
-const name = "James";
-const name2 = "Joe";
+const cipher = require("./cipher");
 
-const person = { first: name };
-
-console.log(person);
-
-const sayHelloLinting = (fName) => {
-  console.log(`Hello linting, ${fName}`);
-};
+console.log(cipher(2, "abcde"));
+console.log(cipher(87, "abcde"));
