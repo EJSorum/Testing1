@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest --coverage",
     "build": "webpack",
-    "dev": "webpack serve",
+    "serve": "webpack serve",
     "prepare": "husky install"
   },
   "repository": {

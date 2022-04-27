@@ -15,7 +15,7 @@ module.exports = {
   devtool: "inline-source-map",
   devServer: {
     static: path.resolve(__dirname, "dist"),
-    port: 8080,
+    port: 8081,
     open: true,
     hot: true,
   },
@@ -39,7 +39,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: "Testing",
       filename: "index.html",
-      template: path.resolve(__dirname, "src/temp.html"),
+      template: path.resolve(__dirname, "src/template.html"),
     }),
   ],
 };

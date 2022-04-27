@@ -19,6 +19,30 @@ function wrap(charCode) {
 }
 */
 
+// CORRECT VERSION BELOW???
+// A = 65, Z=90, a = 97, z=122
+function cipher(int, str) {
+  let newStr = "";
+  for (let i = 0; i < str.length; i += 1) {
+    if (/[a-z]/i.test(str[i])) {
+      const code = str.charCodeAt(i);
+      if (code > 96) {
+        newStr = newStr.concat(
+          String.fromCharCode(97 + ((code - 97 + int) % 26))
+        );
+      } else {
+        newStr = newStr.concat(
+          String.fromCharCode(65 + ((code - 65 + int) % 26))
+        );
+      }
+    } else {
+      newStr = newStr.concat(str[i]);
+    }
+  }
+  return newStr;
+}
+
+/*
 function cipher(int, str) {
   let newStr = "";
   for (let i = 0; i < str.length; i += 1) {
@@ -35,5 +59,6 @@ function cipher(int, str) {
   }
   return newStr;
 }
+*/
 
 module.exports = cipher;
